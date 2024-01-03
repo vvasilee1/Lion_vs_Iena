@@ -1,4 +1,4 @@
-#Image classification with fastai
+Image classification with fastai
 
 FastAI is a layered API on top of Pytorch.This is a high level API that is good for experimentation and prototyping. 
 You can achieve world class results with a few lines of code. It can be used for computer vision,nlp,collaborative
